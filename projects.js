@@ -11,7 +11,7 @@ const PROJECTS = [
     authors: "A",
     venue: "Sports analytics",
     summary:
-      "Project A",
+      "Project A description",
     abstract:
       "Project A studies ...",
     links: {
@@ -30,7 +30,7 @@ const PROJECTS = [
     authors: "B",
     venue: "Sports analytics",
     summary:
-      "Project B",
+      "Project B description",
     abstract:
       "Project B studies ...",
     links: {
