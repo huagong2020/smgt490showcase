@@ -152,7 +152,7 @@ const PROJECTS = [
    {
     id: "p9",
     year: 2026,
-    title: "How pitch sequencing affect batter swing quality",
+    title: "How pitch sequencing affect batter swing quality?",
     authors: "Dante Maurice",
     venue: "Baseball",
     summary:
