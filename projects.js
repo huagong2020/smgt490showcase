@@ -62,7 +62,7 @@ const PROJECTS = [
    {
     id: "p4",
     year: 2026,
-    title: "What impact does a pool have on a swimmer's performance?",
+    title: "Pool Advantage in NCAA Swimming Performance",
     authors: "Lily Cramer",
     venue: "Swimming",
     summary:
@@ -95,10 +95,28 @@ const PROJECTS = [
     },
     thumbnail: null
   },
+       {
+    id: "p17",
+    year: 2026,
+    title: "Has the typical peak performance age of Major League Baseball pitchers shifted earlier in the Statcast era due to increased pitch velocity and physical intensity?",
+    authors: "Alicia Garza",
+    venue: "Baseball",
+    summary:
+      "",
+    abstract:
+      "",
+    links: {
+      doi: "#",
+      code: 'https://github.com',
+      poster: null,
+      pdf: null
+    },
+    thumbnail: null
+  },
    {
     id: "p6",
     year: 2026,
-    title: "Using Markov Chain Decision Process to evaluate batter and bowler (pitcher) performance in T20 Cricket",
+    title: "Evaluating Player Performance in T20 Cricket Using Markov Decision Processes",
     authors: "Kushal Gupta",
     venue: "Cricket",
     summary:
@@ -134,7 +152,7 @@ const PROJECTS = [
    {
     id: "p8",
     year: 2026,
-    title: "Should players be changing their attack angle based on situation/at-bat specific goals or focus on a repeatable, constant swing regardless of circumstances?",
+    title: "How should players be making measurable changes to their swings in certain situations?",
     authors: "Ian Kleppinger",
     venue: "Baseball",
     summary:
@@ -152,7 +170,7 @@ const PROJECTS = [
    {
     id: "p9",
     year: 2026,
-    title: "How pitch sequencing affect batter swing quality?",
+    title: "Pitch Sequencing’s Effect on Swing Quality",
     authors: "Dante Maurice",
     venue: "Baseball",
     summary:
@@ -170,7 +188,7 @@ const PROJECTS = [
    {
     id: "p10",
     year: 2026,
-    title: "Are teams that win by large margins in one game less likely to cover the betting spread in their next game, after controlling for underlying team strength and contextual factors?",
+    title: "Do Sportsbooks Overreact to Recent Performance? Evidence from Blowout Wins in the NFL",
     authors: "Sean McGarry",
     venue: "Sports Betting",
     summary:
@@ -206,7 +224,7 @@ const PROJECTS = [
    {
     id: "p12",
     year: 2026,
-    title: "Can NASCAR drivers be clustered into distinct in-race behavioral archetypes (e.g., 'Aggressive Chargers','Tire Conservers') based on strategic decisions, and do these styles predict success on different track types?",
+    title: "Uncovering Strategic Archetypes: A Behavioral Clustering Analysis of NASCAR Cup Series Drivers, and does a driver's archetype predict their relative performance advantage or disadvantage on different track types (e.g., superspeedways vs. short tracks)?",
     authors: "Savan Patel",
     venue: "NASCAR",
     summary:
@@ -260,7 +278,7 @@ const PROJECTS = [
    {
     id: "p15",
     year: 2026,
-    title: "Optimizing save decisions in Counter-Strike 2",
+    title: "Optimizing saving decisions in Counter-Strike 2",
     authors: "Lou Zhou",
     venue: "CS2",
     summary:
@@ -278,7 +296,7 @@ const PROJECTS = [
    {
     id: "p16",
     year: 2026,
-    title: "How do defensive personnel groupings and sub-package strategies affect overall defense performance in the NFL, and which approaches deliver the greatest performance per dollar of salary investment?",
+    title: "Optimizing Defensive Positional Spending in the NFL Using an Adjusted Plus-Minus Model",
     authors: "Peyton Stevenson",
     venue: "Football",
     summary:
@@ -293,24 +311,7 @@ const PROJECTS = [
     },
     thumbnail: null
   },
-     {
-    id: "p17",
-    year: 2026,
-    title: "",
-    authors: "Alicia Garza",
-    venue: "",
-    summary:
-      "",
-    abstract:
-      "",
-    links: {
-      doi: "#",
-      code: 'https://github.com',
-      poster: null,
-      pdf: null
-    },
-    thumbnail: null
-  },
+
   {
     id: "p100",
     year: 2024,
