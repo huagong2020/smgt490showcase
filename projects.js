@@ -7,7 +7,7 @@ const PROJECTS = [
   {
     id: "p1",
     year: 2026,
-    title: "What is the relationship between swing path adjustability, measured by variability in swing path tilt, and offensive streakiness among MLB hitters in the 2024 and 2025 seasons?",
+    title: "What are the sources of variation in swing path tilt and what is the relationship between swing path tilt and offensive performance and streakiness for the 2025 MLB season?",
     authors: "Nathaniel Ascher",
     venue: "Baseball",
     summary:
