@@ -278,7 +278,7 @@ const PROJECTS = [
    {
     id: "p15",
     year: 2026,
-    title: "Optimizing saving decisions in Counter-Strike 2",
+    title: "Optimizing Saving Decisions in Counter-Strike 2",
     authors: "Lou Zhou",
     venue: "CS2",
     summary:
