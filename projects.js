@@ -7,13 +7,13 @@ const PROJECTS = [
   {
     id: "p1",
     year: 2026,
-    title: "What are the sources of variation in swing path tilt and what is the relationship between swing path tilt and offensive performance and streakiness for the 2025 MLB season?",
+    title: "Sources of Variation in Swing Path Tilt and its Relationship to Offensive Performance and Streakiness",
     authors: "Nathaniel Ascher",
     venue: "Baseball",
     summary:
       "",
     abstract:
-      "Not available at the moment. Please check back later.",
+      "This project investigates the sources of variation in swing path tilt for the 2025 MLB Season and swing path tilt’s relationship to offensive performance and streakiness. The main hypothesis for this project is that the variation in swing path tilt can be broken down into three factors: timing, mechanical inconsistency and the conscious choice for a batter to change their swing, and noise. General Additive Models (GAMs) are used to find out how much each of the three factors contributes to the overall variation. Roughly 1.5% of the variation can be attributed to timing, 68.4% to mechanical inconsistency and conscious choice, and 30.1% to noise. Mixed-effect models evaluate the relationship between swing path tilt and offensive performance (wOBA) and streakiness (wOBA across 10-game, non-rolling windows). Results show that a very small, but positive relationship between swing path till and wOBA exists. There does not seem to be any relationship between variance in swing path tilt and offensive streakiness.",
     links: {
       doi: "",
       code: "",
@@ -98,13 +98,13 @@ const PROJECTS = [
        {
     id: "p17",
     year: 2026,
-    title: "Has the typical peak performance age of Major League Baseball pitchers shifted earlier in the Statcast era due to increased pitch velocity and physical intensity?",
+    title: "Reevaluating Pitcher Aging Curves in the Statcast Era ",
     authors: "Alicia Garza",
     venue: "Baseball",
     summary:
       "",
     abstract:
-      "Not available at the moment. Please check back later.",
+      "This study investigates whether the peak performance age of Major League Baseball pitchers has shifted in the Statcast era, which is characterized by increased velocity and advanced tracking technology. Using pitcher-season data from 2015–present and historical data from 1985–2000, linear mixed-effects models are applied to estimate aging curves while controlling for workload and performance metrics. <br><br> The results suggest that pitchers in the Statcast era reach peak performance earlier, in the mid-twenties rather than around age thirty, and experience a steeper decline after age thirty. Additionally, higher fastball velocity is associated with better performance and more sustained effectiveness across a pitcher’s career. These findings indicate that modern pitching demands may be contributing to earlier peaks and shorter performance windows, with implications for player development and team decision-making.",
     links: {
       doi: "",
       code: '',
