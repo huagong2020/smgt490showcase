@@ -463,11 +463,12 @@
                 <p class="desc">${p.summary}</p>
 
                 <div class="actions">
+                <button class="btn" type="button" data-toggle-abstract="${p.id}">Abstract</button>
                   ${actionButton("DOI", p.links?.doi)}
                   ${actionButton("Code", p.links?.code)}
                   ${actionButton("Poster", p.links?.poster)}
                   ${actionButton("PDF", p.links?.pdf)}
-                  <button class="btn" type="button" data-toggle-abstract="${p.id}">Abstract</button>
+                  
                 </div>
 
                 <div id="abs-${p.id}" class="abstract">${p.abstract}</div>
